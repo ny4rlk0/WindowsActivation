@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\obj\Debug\WindowsActivation.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\obj\Debug\WindowsActivation.Form1.resources
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\obj\Debug\WindowsActivation.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\obj\Debug\WindowsActivation.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\obj\Debug\WindowsActivation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\bin\Debug\WindowsActivation.exe.config
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\bin\Debug\WindowsActivation.exe
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\bin\Debug\WindowsActivation.pdb
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\bin\Debug\MaterialSkin.dll
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\obj\Debug\WindowsA.7546CA06.Up2Date
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\obj\Debug\WindowsActivation.exe
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\obj\Debug\WindowsActivation.pdb
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\bin\Debug\WindowsActivation.exe.manifest
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\bin\Debug\WindowsActivation.application
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\obj\Debug\WindowsActivation.TrustInfo.xml
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\obj\Debug\WindowsActivation.exe.manifest
+C:\Users\Administrator\source\repos\WindowsActivation\WindowsActivation\obj\Debug\WindowsActivation.application
