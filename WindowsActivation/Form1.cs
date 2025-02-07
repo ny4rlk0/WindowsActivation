@@ -52,7 +52,9 @@ namespace WindowsActivation
 
         private void materialButton1_Click(object sender, EventArgs e)
         {
-            Thread bt = new Thread(() => ps("irm https://massgrave.dev/get | iex"));
+            Thread bt = new Thread(() => ps("irm https://get.activated.win | iex"));
+            // Eski URL => https://massgrave.dev/get
+            // Yeni URL => https://get.activated.win
             bt.Start();
             materialButton1.Enabled = false;
         }
@@ -85,7 +87,7 @@ namespace WindowsActivation
             finally
             {
                 this.Invoke((MethodInvoker)delegate { materialButton1.Enabled = true; });
-                
+
             }
         }
         #endregion
